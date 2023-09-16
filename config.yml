@@ -1,0 +1,4 @@
+author: Geemoose
+database:
+  input_dir: assets/
+  output_dir: outputs/
